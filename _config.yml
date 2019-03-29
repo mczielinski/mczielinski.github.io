@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "Mark Zielinski"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : 
   location         : "Boston, MA"
   employer         : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=Ske6oe0AAAAJ&hl=en"
   email            : 
   uri              : 
   bitbucket        :
@@ -96,8 +96,8 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/mark-zielinski-95124943/"
+  orcid            : "https://orcid.org/0000-0002-6950-6689"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
