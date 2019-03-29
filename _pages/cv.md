@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="https://mczielinski.github.io/files/CV2019.pdf" type="application/pdf" />
 
