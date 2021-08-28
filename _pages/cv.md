@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://mczielinski.github.io/files/CV2020.pdf" type="application/pdf" />
+<embed src="https://mczielinski.github.io/files/CV2021.pdf" type="application/pdf" />
 
