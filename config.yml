@@ -1,5 +1,5 @@
-baseURL: "https://mcz.fyi/"
-title: ExampleSite
+baseURL: "https://github.com/mczielinski/mczielinski.github.io"
+title: Mark Zielinski's Personal Website
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Mark Zielinski's Personal Website
+  description: "Mark Zielinski's Personal Website"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
