@@ -67,9 +67,9 @@ params:
     imageTitle: my image
     buttons:
       - name: Download Resume
-        url: "/MCZ_July_2023.pdf"
+        url: "/mcz_july_2023.pdf"
       - name: Download CV
-        url: "/CV202307.pdf"
+        url: "/cv202307.pdf"
         
   # home-info mode
   homeInfoParams:
@@ -119,12 +119,12 @@ menu:
   main:
     - identifier: resume
       name: resume
-      url: "/MCZ_July_2023.pdf"
+      url: "/mcz_july_2023.pdf"
       weight: 10
       
     - identifier: cv
       name: cv
-      url: "/CV202307.pdf"
+      url: "/cv202307.pdf"
       weight: 20
       
     - identifier: publications
