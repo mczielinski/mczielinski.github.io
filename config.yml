@@ -1,6 +1,6 @@
 baseURL: "https://github.com/mczielinski/mczielinski.github.io"
 title: Mark Zielinski's Personal Website
-paginate: 5
+paginate: 15
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -22,7 +22,7 @@ params:
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -69,7 +69,7 @@ params:
       - name: Download Resume
         url: "/MCZ_July_2023.pdf"
       - name: Download CV
-        url: "/CV2021.pdf"
+        url: "/CV202307.pdf"
         
   # home-info mode
   homeInfoParams:
