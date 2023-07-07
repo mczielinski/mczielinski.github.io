@@ -2,35 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mcz.fyi/cv/</loc>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/posts/example-post/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mcz.fyi/posts/example-post/</loc>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/projects/example-project/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mcz.fyi/projects/example-project/</loc>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mcz.fyi/publications/example-publications/</loc>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/posts/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mcz.fyi/</loc>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/projects/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mcz.fyi/posts/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/curtis-2022-patient/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mcz.fyi/projects/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mcz.fyi/publications/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2021-hippocampal/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mcz.fyi/resume/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2020-hippocampal/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mcz.fyi/categories/</loc>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2020-role/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mcz.fyi/tags/</loc>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2019-coherent/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/greeley-2017-preservation/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/papale-2016-interplay/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/poudel-2016-stereological/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/bailey-2015-evidence/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/golkab-2014-improved/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/manfredi-2014-natural/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/golab-2013-biotin/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/savari-2013-distinct/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/greeley-2013-fewer/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2013-histological/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/golab-2013-optimization/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/wang-2013-quantitative/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/wang-2013-regional/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/kilimnik-2012-quantification/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/publications/manfredi-2012-effect/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/categories/</loc>
+  </url><url>
+    <loc>https://github.com/mczielinski/mczielinski.github.io/tags/</loc>
   </url>
 </urlset>

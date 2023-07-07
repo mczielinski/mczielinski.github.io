@@ -1,23 +1,194 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Publications on ExampleSite</title>
-    <link>https://mcz.fyi/publications/</link>
-    <description>Recent content in Publications on ExampleSite</description>
+    <title>Publications on Mark Zielinski&#39;s Personal Website</title>
+    <link>https://github.com/mczielinski/mczielinski.github.io/publications/</link>
+    <description>Recent content in Publications on Mark Zielinski&#39;s Personal Website</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://mcz.fyi/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://mcz.fyi/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Mark Zielinski&#39;s Personal Website</title>
+      <url>https://github.com/mczielinski/mczielinski.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://github.com/mczielinski/mczielinski.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mcz.fyi/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/mczielinski/mczielinski.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Publication</title>
-      <link>https://mcz.fyi/publications/example-publications/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <title>Patient outcomes improve when a molecular signature test guides treatment decision-making in rheumatoid arthritis</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/curtis-2022-patient/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mcz.fyi/publications/example-publications/</guid>
-      <description>Find my Publications here.</description>
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/curtis-2022-patient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hippocampal theta sequences in REM sleep during spatial learning</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2021-hippocampal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2021-hippocampal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hippocampal Theta Shapes Neuronal Sequences in Interaction and Behavior</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2020-hippocampal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2020-hippocampal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of replay and theta sequences in mediating hippocampal-prefrontal interactions for memory and cognition</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2020-role/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2020-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coherent coding of spatial position mediated by theta oscillations in the hippocampus and prefrontal cortex</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2019-coherent/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2019-coherent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preservation of reduced numbers of insulin-positive cells in sulfonylurea-unresponsive KCNJ11-related diabetes</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/greeley-2017-preservation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/greeley-2017-preservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interplay between Hippocampal Sharp-Wave-Ripple Events and Vicarious Trial and Error Behaviors in Decision Making</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/papale-2016-interplay/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/papale-2016-interplay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stereological analyses of the whole human pancreas</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/poudel-2016-stereological/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/poudel-2016-stereological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of non-pancreatic beta cell-dependent roles of Tcf7l2 in the regulation of glucose metabolism in mice</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/bailey-2015-evidence/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/bailey-2015-evidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Coating of Pancreatic Islets With Regulatory T cells to Create Local Immunosuppression by Using the Biotin-polyethylene Glycol-succinimidyl Valeric Acid Ester Molecule</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/golkab-2014-improved/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/golkab-2014-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural scenes in tactile texture</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/manfredi-2014-natural/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/manfredi-2014-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biotin-PEG-SVA as a more Effective Linking Molecule in Comparison to Biotin-PEG-NHS for Coating of Pancreatic Islets with Regulatory T Cells (Tregs) to Create Local Immunoprotection-Optimization of the Method</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/golab-2013-biotin/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/golab-2013-biotin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct function of the head region of human pancreas in the pathogenesis of diabetes</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/savari-2013-distinct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/savari-2013-distinct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fewer Beta Cells and Insulin Granules in Autopsy Histology of a Patient With Sulfonylurea-Unresponsive KCNJ11 Neonatal Diabetes</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/greeley-2013-fewer/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/greeley-2013-fewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histological Analysis of the Whole Human Pancreas in Health and Disease</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2013-histological/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/zielinski-2013-histological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of the Coating of Pancreatic Islets with T Regulatory Cells in the Novel Immunoprotective Approach.</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/golab-2013-optimization/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/golab-2013-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative analysis of pancreatic polypeptide cell distribution in the human pancreas</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/wang-2013-quantitative/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/wang-2013-quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional differences in islet distribution in the human pancreas-preferential beta-cell loss in the head region in patients with type 2 diabetes</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/wang-2013-regional/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/wang-2013-regional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of islet size and architecture</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/kilimnik-2012-quantification/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/kilimnik-2012-quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of surface wave propagation on neural responses to vibration in primate glabrous skin</title>
+      <link>https://github.com/mczielinski/mczielinski.github.io/publications/manfredi-2012-effect/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mczielinski/mczielinski.github.io/publications/manfredi-2012-effect/</guid>
+      <description></description>
     </item>
     
   </channel>
