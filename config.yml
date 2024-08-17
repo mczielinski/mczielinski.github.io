@@ -67,7 +67,7 @@ params:
     imageTitle: my image
     buttons:
       - name: Download Resume
-        url: "/mcz_july_2023.pdf"
+        url: "/mcz_august_2024.pdf"
       - name: Download CV
         url: "/cv202307.pdf"
         
@@ -84,7 +84,7 @@ params:
     - name: kaggle
       url: "https://www.kaggle.com/mczielinski"
     - name: linkedin
-      url: "https://www.linkedin.com/in/mczie/"
+      url: "708-539-4138"
     - name: phone
       
   analytics:
