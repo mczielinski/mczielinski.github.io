@@ -119,7 +119,7 @@ menu:
   main:
     - identifier: resume
       name: resume
-      url: "/mcz_july_2023.pdf"
+      url: "/mcz_august_2024.pdf"
       weight: 10
       
     - identifier: cv
