@@ -84,8 +84,9 @@ params:
     - name: kaggle
       url: "https://www.kaggle.com/mczielinski"
     - name: linkedin
-      url: "708-539-4138"
+      url: "https://www.linkedin.com/in/mczie/"
     - name: phone
+      url: "708-539-4138"
       
   analytics:
     google:
