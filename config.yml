@@ -67,7 +67,7 @@ params:
     imageTitle: my image
     buttons:
       - name: Download Resume
-        url: "/mcz_august_2024.pdf"
+        url: "/mcz_november_2024.pdf"
       - name: Download CV
         url: "/cv202307.pdf"
         
@@ -120,7 +120,7 @@ menu:
   main:
     - identifier: resume
       name: resume
-      url: "/mcz_august_2024.pdf"
+      url: "/mcz_november_2024.pdf"
       weight: 10
       
     - identifier: cv
