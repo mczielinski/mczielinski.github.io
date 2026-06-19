@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://github.com/mczielinski/mczielinski.github.io/sitemap.xml

@@ -1,0 +1,147 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 3.0 (December 17, 2022)
+%
+% This template originates from:
+% https://www.LaTeXTemplates.com
+%
+% Author:
+% Vel (vel@latextemplates.com)
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% License:
+% CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\name{Mark C Zielinski, P\MakeLowercase{h}.D.} % Your name
+\address{Boston, MA \big|  (708) 539-4138 \big| mczielinski@gmail.com } % Your address
+\address{github.com/mczielinski \big| \textbf{mcz.fyi} \big| linkedin.com/in/mczie} % Your phone number and email
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	SKILLS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Skills}
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{2ex}} l }
+Languages and tools&
+\small{Python, MATLAB, R, HTML, CSS, Javascript, Bash/Zsh, SQL, }\\
+& \small{Unix/Linux/HPCC, Git/GitHub/Bitbucket, Docker, AWS, GCP, LLMs, MLflow, DVC}\\
+\\[-.5em]
+Packages&
+\small{Jupyter, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, Bokeh, }\\
+& \small{BeautifulSoup, Selenium, PyTorch, TensorFlow, Tensorboard, DESeq2,}\\
+& \small{Hugging Face, PySpark, Dask, XGBoost}\\
+%& \small{FastAI, LightGBM, Ray, Weights \& Biases, Optuna, }\\
+\\[-.5em]
+Skills \& Techniques&
+\small{regression, classification, clustering, resampling, dimensionality reduction,}\\
+& \small{modeling, machine learning, experimental design, causality inference,}\\
+& \small{parametric/nonparametric/circular/Bayesian statistics, class imbalance,}\\
+& \small{time series analysis, digital/analog signal processing, time delay embedding,}\\
+& \small{dynamical systems, manifold learning, graph/information theory, explainable AI (xAI)}\\
+\\[-.5em]
+& \small{RNASeq and scRNASeq, eQTL, differential expression,}\\
+\\[-.5em]
+& \small{transformers, attention mechanisms, prompt engineering, few-shot learning,}\\
+& \small{transfer learning, RAG, agentic AI, multi-agent systems, tool/function calling, MCP,}\\
+& \small{vector databases, embeddings, semantic search, LLM evaluation \& guardrails,}\\
+& \small{structured outputs, MLOps, LLMOps, CI/CD for ML, A/B testing, feature engineering,}\\
+& \small{model monitoring, data versioning, reinforcement learning, GANs, recommendation systems}\\
+\\[-.5em]
+Leadership and Business&
+\small{mentorship, project management, JIRA, Confluence,}\\
+& \small{internal/external stakeholder communication, AI powered automation,}\\
+& \small{ETL/data pipeline development, product benchmarking/development,}\\
+& \small{cross-functional team leadership, technical documentation, cost-benefit analysis,}\\
+& \small{ROI assessment, AI strategy development, responsible AI practices}\\
+\end{tabular}
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Experience}
+
+\begin{rSubsection}{Prompt Health}{02/2025 - Present}{Senior AI Engineer}{Remote}
+
+\item Within my first two months, designed and shipped production Python software that generates an automated payer-intelligence report---surfacing the top claim rejections and denials by payer and delivering prioritized, actionable guidance to recover and prevent revenue loss.
+
+\item Lead a company-wide initiative to embed AI and agentic automation across the end-to-end revenue cycle management (RCM) pipeline, spanning API integrations with payers and clearinghouses, telephony workflows, and automated insurance benefits verification.
+
+\item Build ML/AI and automation over at-scale claims, remittance, and eligibility data spanning the entirety of Prompt RCM's rehab-therapy clinic network and tens of millions of dollars in accounts receivable, targeting denial prediction, automated claim correction, and accelerated reimbursement.
+
+\end{rSubsection}
+
+%------------------------------------------------
+
+\begin{rSubsection}{Scipher Medicine}{03/2021 - 02/2025}{Data Scientist, Senior Data Scientist}{Boston, MA}
+
+\item Used Bayesian inference, deep learning, and graph theoretic techniques in R and Python to infer causality/directionality for drug re-purposing, using single cell and bulk RNASeq machine learning techniques, pipelines, and data sources.
+
+\item Ingested, organized, and streamlined clinical and genomic data/metadata from internal clinical trials and external EMR/EHR data sources (40\% of all US RA patients), sharing these clean and GitHub version controlled data pipelines and ETLs to an AWS-native data lake, and piloting CI/CD and modern DevOps department wide for reproducible code and data collaboration.
+
+\item Developed analyses, presentations, and materials for stakeholders to pursue data monetization and drug re-purposing partnerships using aforementioned EHR and genomic data sources and pipelines.
+
+\item Developed a clinical endpoint simulation algorithm, improving ML outcomes with probabilistic labels, delivering conference abstracts and communicating with internal and external stakeholders on commercialization and medical/academic rheumatology impact.
+
+\item Implemented and productionized a SOTA DL model in PyTorch to predict drug response and non-response in RA, using fuzzy/probabilistic labels and bulk RNAseq + clinical data, MLOps, and model/data versioning.
+
+\item Mentored three full-time summer interns and one MPH student practicum, designing and leading adoption of a formal mentorship framework in the DS department consisting of Python, git, SQL, AWS, statistics, and ML/AI.
+
+\end{rSubsection}
+
+%------------------------------------------------
+
+\begin{rSubsection}{Brandeis University}{09/2013 - 03/2021}{Graduate Researcher, Teaching Assistant, and Postdoctoral Scholar}{Boston, MA}
+
+\item Collected and analyzed 1GB/min time series data to study neural interactions between the hippocampus and prefrontal cortex, two interconnected brain regions important for learning and decision making.
+
+\item Designed multiple, multi-year long studies and projects, including interpreting literature for gaps and fit, designing hardware, software, and novel analytical and mathematical techniques in MATLAB and Python.
+
+\item Used PCA, generalized linear models, unsupervised learning techniques, and Bayesian methods to decode brain cell responses and brain area communication,
+providing published new insights into representations of memory.
+
+\item Mentored graduate and undergraduate students in analytical techniques; wrote and directed a yearly internal course on computer science, continuous and discrete data analysis, and common statistical methods.
+\end{rSubsection}
+%------------------------------------------------
+
+\begin{rSubsection}{Freelance Data Science Consulting}{10/2020 - 02/2021}
+{Neuroscience/Data Science Consultant for Wave Neurosciences}{Boston, MA}
+\item Analyzed double-blind clinical trial data of veterans with PTSD, consisting of 84 21-channel EEGs x 3 longitudinal time points.
+
+\item Used supervised and unsupervised machine learning techniques, information theory, and graph theory for comparisons and longitudinal trends in functional connectivity between sham and neuromodulation groups in wide and narrow-band power and coherence.
+
+\item Contracted for 80hrs, with deliverables including study and statistical design, python code, hosted data, notebooks, visualizations, presentations, and a study report outlining analyses.
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+{\bf Brandeis University} \hfill {2013 - 2020} \\
+Ph.D. in Neuroscience, Certificate in Quantitative Biology
+
+{\bf University of Chicago} \hfill {2007 - 2011} \\
+B.A. in Biology, Specialization in Neuroscience, Minor in Computational Neuroscience
+
+\end{rSection}
+
+\end{document}
