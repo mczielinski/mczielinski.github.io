@@ -1,0 +1,17 @@
+version: 2
+updates:
+  # Keep the deploy workflow's GitHub Actions current (grouped into a single PR)
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      github-actions:
+        patterns: ["*"]
+
+  # Keep the PaperMod theme submodule from going stale.
+  # Hugo is pinned separately, so review the build check on these PRs before merging.
+  - package-ecosystem: "gitsubmodule"
+    directory: "/"
+    schedule:
+      interval: "monthly"
