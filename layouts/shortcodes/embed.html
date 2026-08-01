@@ -1,0 +1,51 @@
+{{- /*
+  Embed an external page as a self-sizing iframe.
+
+  Usage:
+    {{< embed src="https://mczielinski.github.io/holography-tutorials/" title="…" >}}
+
+  When the embedded page is SAME-ORIGIN (e.g. another path under
+  mczielinski.github.io), the iframe auto-grows to the page's full height so the
+  article reads inline with no nested scrollbar. Cross-origin pages fall back to
+  a fixed viewport height. A "full-screen" link is always provided.
+*/ -}}
+{{- $src := .Get "src" -}}
+{{- $title := .Get "title" | default "Embedded interactive content" -}}
+{{- $width := .Get "width" | default "860px" -}}
+{{- $id := printf "embed-%d" .Ordinal -}}
+<div class="embed-breakout" style="position:relative;width:min({{ $width }},94vw);margin:1.75rem 0;margin-left:50%;transform:translateX(-50%);">
+  <iframe id="{{ $id }}" src="{{ $src }}" title="{{ $title }}" loading="lazy" scrolling="no"
+          style="display:block;width:100%;height:90vh;border:1px solid rgba(128,128,128,.28);border-radius:8px;background:#0d1117;"></iframe>
+  <p style="text-align:center;margin:.5rem 0 0;font-size:.9em;">
+    <a href="{{ $src }}" target="_blank" rel="noopener">Open the full-screen version&nbsp;&#8599;</a>
+  </p>
+</div>
+<script>
+(function () {
+  var f = document.getElementById("{{ $id }}");
+  if (!f) return;
+  var ro = null;
+  function size() {
+    try { f.style.height = f.contentWindow.document.documentElement.scrollHeight + 'px'; }
+    catch (e) { f.style.height = '90vh'; f.setAttribute('scrolling', 'auto'); }
+  }
+  function attach() {
+    size();
+    try {
+      var w = f.contentWindow, d = w.document;
+      if (window.ResizeObserver && !ro) {
+        ro = new ResizeObserver(size);
+        ro.observe(d.documentElement);
+        if (d.body) ro.observe(d.body);
+      }
+      w.addEventListener('resize', size);
+    } catch (e) { /* cross-origin: keep the fixed-height fallback */ }
+    // Re-measure after late layout shifts (KaTeX, fonts, canvas sims).
+    [150, 500, 1200, 3000].forEach(function (t) { setTimeout(size, t); });
+  }
+  f.addEventListener('load', attach);
+  // If the frame already finished loading before this script ran, attach now.
+  try { if (f.contentWindow.document.readyState === 'complete') attach(); } catch (e) {}
+  window.addEventListener('resize', size);
+})();
+</script>
