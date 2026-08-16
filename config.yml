@@ -58,7 +58,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Mark C Zielinski, PhD
-    subtitle: "Neuroscience Ph.D. and Senior AI Engineer at Prompt Health, where I build machine learning and AI systems for healthcare revenue cycle management (RCM) — predicting claim denials and powering automated, AI-enabled RCM workflows. My research roots are in teasing apart patterns of neural communication from the dynamics of brain activity, using extracellular multi-site electrophysiology, clinical-trial EEG, and modeling and simulation. I'm drawn to machine learning for messy time series at scale, and to graph-theoretic, information-theoretic, and Bayesian methods that turn bioinformatic and real-world data into clinical utility."
+    subtitle: "Neuroscience Ph.D. and Senior AI Engineer, Team Lead at Prompt Health, where I build machine learning and AI systems for healthcare revenue cycle management (RCM) — predicting claim denials and powering automated, AI-enabled RCM workflows. My research roots are in teasing apart patterns of neural communication from the dynamics of brain activity, using extracellular multi-site electrophysiology, clinical-trial EEG, and modeling and simulation. I'm drawn to machine learning for messy time series at scale, and to graph-theoretic, information-theoretic, and Bayesian methods that turn bioinformatic and real-world data into clinical utility."
     imageUrl: "/profile.jpg"
     imageWidth: 120
     imageHeight: 120
